@@ -14,7 +14,9 @@ Esta lista de tareas se ha implemplementado con localStorage, por tanto, los dat
 ### Proyecto
 1. Clonar repositorio:
 git clone https://github.com/Vero7nicaRS/lista-tareas-react.git
-2. Instalar dependencias:
+2. Acceder a la carpeta del proyecto:
+cd p1-lista-tareas
+3. Instalar dependencias:
 npm install
 2. Ejecutar la aplicación:
 npm run dev
